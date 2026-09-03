@@ -26,6 +26,7 @@
         ncurses
         wayland
         libxkbcommon
+        kdePackages.wayland
       ];
       version = "yeet-44";
 
